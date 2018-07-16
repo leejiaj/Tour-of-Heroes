@@ -1,3 +1,6 @@
+# AngularTourOfHeroes
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
 
 Reference: https://angular.io/tutorial
 
@@ -15,11 +18,6 @@ Format data with pipes.
 Create a shared service to assemble the heroes.
 Use routing to navigate among different views and their components.
 
-
-
-# AngularTourOfHeroes
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
 
 ## Development server
 
